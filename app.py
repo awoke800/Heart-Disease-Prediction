@@ -9,6 +9,11 @@ import pandas as pd ## structures input data
 
 
 
+
+st.image("https://raw.githubusercontent.com/FarzadNekouee/Heart_Disease_Prediction/master/image.jpg")
+
+
+
 # 1. Model Loadings
 # Ensure the model file is in the same directory as this script.
 try: ## try and except are used for error handling in Python.
