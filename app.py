@@ -7,11 +7,6 @@ import streamlit as st ## builds the web interface
 import joblib ## loads the trained ML model (model.pkl)
 import pandas as pd ## structures input data
 
-
-from IPython.display import Image, display
-
-
-
 st.image("https://raw.githubusercontent.com/FarzadNekouee/Heart_Disease_Prediction/master/image.jpg")
 
 
@@ -67,7 +62,5 @@ if st.button("Predict"):
     except Exception as e:
         # Captures feature name mismatches or data type errors
         st.error(f"Prediction Error: {e}")
-        #######
-        ####
         
-# 
+        
