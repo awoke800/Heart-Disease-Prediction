@@ -10,7 +10,6 @@ import pandas as pd ## structures input data
 
 
 
-st.image("https://raw.githubusercontent.com/FarzadNekouee/Heart_Disease_Prediction/master/image.jpg")
 
 
 
