@@ -7,8 +7,6 @@ import streamlit as st ## builds the web interface
 import joblib ## loads the trained ML model (model.pkl)
 import pandas as pd ## structures input data
 
-st.image("https://raw.githubusercontent.com/FarzadNekouee/Heart_Disease_Prediction/master/image.jpg")
-
 
 
 # 1. Model Loadings
